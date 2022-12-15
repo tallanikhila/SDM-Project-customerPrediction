@@ -12,3 +12,5 @@ The models that we are using here are:
 3. Random Forest Classifier 
 
 4.ADABoost Classifier
+
+An accuracy graph is also shown for all the models on the dataset to identify the best model. Different types of visualizations are shown on the dataset.
